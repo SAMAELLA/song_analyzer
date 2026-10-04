@@ -1,3 +1,6 @@
+<img width="1529" height="323" alt="スクリーンショット 2026-10-04 165612" src="https://github.com/user-attachments/assets/45d7ecb2-12f9-4a17-9b83-56821a7f1e49" />
+
+
 # Song Analyzer
 
 YouTube Music の曲情報を取得し、音声をダウンロードして分離・分析するための実験プロジェクトです。
