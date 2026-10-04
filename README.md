@@ -1,5 +1,5 @@
 <img width="1529" height="323" alt="スクリーンショット 2026-10-04 165612" src="https://github.com/user-attachments/assets/45d7ecb2-12f9-4a17-9b83-56821a7f1e49" />
-
+↑アーティストである「こっちのけんと」氏の楽曲のテンポ、推定キーなどを解析し、データベースに格納したもの
 
 # Song Analyzer
 
